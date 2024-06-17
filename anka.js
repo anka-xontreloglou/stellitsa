@@ -1,0 +1,2 @@
+document.head.innerHTML = '<head><title>LHOHQ Intercompart mental Massaging Center</title></head>';
+document.body.innerHTML = '<body><link rel="stylesheet" href="admin/style.css" type="text/css"><img style="left:25%;position:absolute" src="https://i.ibb.co/hCT8nh8/idk.png" onmouseover="alert(\"♥A♥N♥T♥O♥N♥I♥S♥  K♥A♥M♥P♥O♥U♥R♥A♥K♥I♥S♥\n\nM♥A♥K♥E♥S♥  L♥O♥V♥E♥  T♥O♥\n\nM♥A♥R♥K♥  E♥S♥C♥R♥I♥B♥A♥N♥O♥\")"></body>';
